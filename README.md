@@ -1,6 +1,5 @@
 # 🛍️ ShopAI - AI-Powered E-Commerce Platform (MERN + AI + Voice + Payments)
 
-![ShopAI Banner](https://github.com/Mafia2404/ShopAI/blob/main/frontend/logo.png)  
 *A modern e-commerce platform with AI-powered recommendations, secure payments, and admin dashboard.*
 
 🔗 **Live Demo:**  
@@ -131,4 +130,4 @@ Open a Pull Request
 MIT © ShopAI 2025
 ---
 ### 👥 Contributors
-<table> <tr> <td align="center"> <a href="https://github.com/your-github-username"> <img src="https://avatars.githubusercontent.com/your-github-username" width="80px;" alt="Sakshi's GitHub profile picture"/><br /> <sub><b>Sakshi Solanki</b></sub> </a><br /> 💻 UI/UX, Firebase Auth, Razorpay Integration </td> <td align="center"> <a href="https://github.com/uddhav-code"> <img src="https://avatars.githubusercontent.com/uddhav-code" width="80px;" alt="Uddhav's GitHub profile picture"/><br /> <sub><b>Uddhav</b></sub> </a><br /> 🔧 Backend APIs, AI Recommendations, MongoDB Models </td> </tr> </table>
+<table> <tr> <td align="center"> <a href="https://github.com/Sakshi-1224"> <img src="https://avatars.githubusercontent.com/Sakshi-1224" width="80px;" alt="Sakshi's GitHub profile picture"/><br /> <sub><b>Sakshi Solanki</b></sub> </a><br /> 💻 UI/UX, Firebase Auth, Razorpay Integration </td> <td align="center"> <a href="https://github.com/Mafia2404"> <img src="https://avatars.githubusercontent.com/Mafia2404" width="80px;" alt="Uddhav's GitHub profile picture"/><br /> <sub><b>Uddhav</b></sub> </a><br /> 🔧 Backend APIs, AI Recommendations, MongoDB Models </td> </tr> </table>
